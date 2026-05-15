@@ -1,6 +1,3 @@
-
-<h1 align="center">Hi, I'm particular-address 👋</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88b4e0,100:c8a8e9&height=160&section=header&text=particular-address&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header">
 </p>
