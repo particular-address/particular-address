@@ -2,9 +2,17 @@
 <h1 align="center">Hi, I'm particular-address 👋</h1>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88b4e0,100:c8a8e9&height=160&section=header&text=particular-address&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header">
+</p>
+
+<p align="center">
   Developer of mostly-functional things and occasionally-shipped projects.
   <br>
   Currently in the part of the project where things compile.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&height=50&lines=Compiles+on+a+good+day;Ships+on+a+great+one;Currently+refactoring+yesterday" alt="Typing intro">
 </p>
 
 <p align="center">
@@ -25,25 +33,49 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=particular-address&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com/?user=particular-address&theme=transparent&hide_border=true" alt="Contribution streak — baseline">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=particular-address&layout=compact&theme=transparent&hide_border=true" alt="Most used languages">
+  <img src="https://streak-stats.demolab.com/?user=particular-address&theme=transparent&hide_border=true&date_format=j%20M%20%5BY%5D&short_numbers=true" alt="Contribution streak — custom date format, short numbers">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=particular-address&theme=transparent&hide_border=true" alt="Contribution streak">
+  <img src="https://streak-stats.demolab.com/?user=particular-address&theme=transparent&hide_border=true&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=A78BFA&ring=A78BFA&exclude_days=Sun,Sat" alt="Contribution streak — purple accent, weekends excluded">
 </p>
 
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/particular-address/particular-address/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/particular-address/particular-address/output/github-snake.svg">
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/particular-address/particular-address/output/github-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=particular-address&theme=github-compact&hide_border=true&bg_color=00000000" alt="Activity graph">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=particular-address&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=particular-address&theme=transparent" alt="Profile details">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=particular-address&theme=transparent" alt="Stats summary">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=particular-address&theme=transparent" alt="Most-commit languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=particular-address&theme=transparent" alt="Repos per language">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=particular-address&theme=transparent" alt="Productive time">
 </p>
 <!--
 **particular-address/particular-address** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
