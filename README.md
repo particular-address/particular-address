@@ -30,15 +30,7 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=particular-address&theme=transparent&hide_border=true" alt="Contribution streak — baseline">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=particular-address&theme=transparent&hide_border=true&date_format=j%20M%20%5BY%5D&short_numbers=true" alt="Contribution streak — custom date format, short numbers">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=particular-address&theme=transparent&hide_border=true&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=A78BFA&ring=A78BFA&exclude_days=Sun,Sat" alt="Contribution streak — purple accent, weekends excluded">
+  <img src="https://streak-stats.demolab.com/?user=particular-address&theme=transparent&hide_border=true&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=A78BFA&ring=A78BFA" alt="Contribution streak">
 </p>
 
 <br>
