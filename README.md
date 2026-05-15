@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88b4e0,100:c8a8e9&height=160&section=header&text=particular-address&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header">
 </p>
 
-<!-- Bio -->
+<!-- Bio: tongue-in-cheek developer description -->
 <p align="center">
   Developer of mostly-functional things and occasionally-shipped projects.
   <br>
@@ -34,7 +34,7 @@
 
 <br>
 
-<!-- Contribution streak via streak-stats.demolab.com -->
+<!-- Contribution streak (purple accent, weekends included) via streak-stats.demolab.com -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=particular-address&theme=transparent&hide_border=true&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=A78BFA&ring=A78BFA" alt="Contribution streak">
 </p>
@@ -59,12 +59,7 @@
 
 <!-- ==== Summary cards (github-profile-summary-cards.vercel.app) ==== -->
 
-<!-- Summary: profile details -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=particular-address&theme=transparent" alt="Profile details">
-</p>
-
-<!-- Summary cards in 2x2 grid: stats, top-langs-by-commit, top-langs-by-repo, commits (productive-time) -->
+<!-- Summary cards: 2x2 grid with profile-details as a wide third row (stats, top-langs-by-commit, top-langs-by-repo, commits, profile-details) -->
 <table align="center">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=particular-address&theme=transparent" alt="Stats"></td>
@@ -73,6 +68,9 @@
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=particular-address&theme=transparent" alt="Top Languages by Repo"></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=particular-address&theme=transparent" alt="Commits (productive time)"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=particular-address&theme=transparent" alt="Profile details"></td>
   </tr>
 </table>
 <!--
