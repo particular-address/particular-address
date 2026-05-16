@@ -76,13 +76,16 @@
 
 <br>
 
-<!-- ==== Self-hosted widgets — heatmap + donut grouped in one table (SVGs committed in assets/) ==== -->
+<!-- ==== Self-hosted widgets — heatmap + donut in one shared cell (SVGs committed in assets/) ==== -->
 
-<!-- Grouped: heatmap (row 1) carries the date that heads the pair; donut (row 2) needs no separate date -->
+<!-- Both SVGs in a single cell: one row means no alternating-row shading; heatmap on top carries the date that heads the pair -->
 <table align="center">
   <tr>
-    <td align="center"><img src="./assets/20260516-1028-utc-widget-contribution-heatmap-C.svg" alt="Contribution heatmap"></td>
-    <td align="center"><img src="./assets/20260516-1119-utc-widget-language-donut-A.svg" alt="Top Languages by Commit"></td>
+    <td align="center">
+      <img src="./assets/20260516-1028-utc-widget-contribution-heatmap-C.svg" alt="Contribution heatmap">
+      <br>
+      <img src="./assets/20260516-1119-utc-widget-language-donut-A.svg" alt="Top Languages by Commit">
+    </td>
   </tr>
 </table>
 <!--
