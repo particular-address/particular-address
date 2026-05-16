@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Currently%20learning-Recursion%2C%20Eventually-success?style=flat-square" alt="Currently learning">
 </p>
 
-
 <!-- Tech stack icons via devicons CDN — languages in donut order, then tools -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
