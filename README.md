@@ -57,15 +57,6 @@
 
 <br>
 
-<!-- GitHub trophies via github-profile-trophy — currently disabled, uncomment block below to re-enable -->
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=particular-address&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies">
-</p>
--->
-
-<br>
-
 <!-- ==== Summary cards (github-profile-summary-cards.vercel.app) ==== -->
 
 <table align="center">
