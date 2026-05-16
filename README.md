@@ -7,12 +7,12 @@
 <p align="center">
   Developer of mostly-functional things and occasionally-shipped projects.
   <br>
-  Working on the "occasionally" part. 
+  Working on the "occasionally" part.
 </p>
 
-<!-- Animated typing intro via readme-typing-svg -->
+<!-- Animated typing intro via readme-typing-svg — 12-line rotation, separator=| , shuffled -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&height=50&lines=Compiles+on+a+good+day;Ships+on+a+great+one;Currently+refactoring+yesterday" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&height=50&separator=%7C&random=true&lines=Drawn+to+problems+without+obvious+answers|Tends+to+leave+codebase+tidier+than+found|Why+it+broke+is+more+interesting+than+it+breaking|Prefers+solutions+that+don%27t+break+later|Curious+how+things+actually+work|Commits+early%2C+commits+often|Looks+it+up+before+answering|Learns+across+domains%2C+by+necessity+and+habit|Writes+for+whoever+reads+it+next|Learns+the+system+before+touching+it|Would+rather+improve+a+thing+than+scrap+it|Treats+other+people%27s+code+as+borrowed%2C+not+owned" alt="Typing intro">
 </p>
 
 <!-- Badges: focus and currently learning via shields.io -->
