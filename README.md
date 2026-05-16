@@ -76,7 +76,7 @@
 
 <!-- ==== Self-hosted widgets — heatmap + donut in one shared cell (SVGs committed in assets/) ==== -->
 
-<!-- Both SVGs in a single cell to avoide zebra-striping -->
+<!-- Both SVGs in a single cell to avoid zebra-striping -->
 <table align="center">
   <tr>
     <td align="center">
