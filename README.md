@@ -73,6 +73,22 @@
     <td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=particular-address&theme=transparent" alt="Profile details"></td>
   </tr>
 </table>
+
+<br>
+
+<!-- ==== Self-hosted widgets (self-rendered SVGs committed in assets/) ==== -->
+
+<!-- Contribution heatmap — self-rendered SVG -->
+<p align="center">
+  <img src="./assets/20260516-1028-utc-widget-contribution-heatmap-C.svg" alt="Contribution heatmap">
+</p>
+
+<br>
+
+<!-- Top languages donut — self-rendered SVG -->
+<p align="center">
+  <img src="./assets/20260516-1119-utc-widget-language-donut-A.svg" alt="Top Languages by Commit">
+</p>
 <!--
 **particular-address/particular-address** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
