@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280" fill="none">
+<text x="20" y="30" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="16" font-weight="600" fill="#A78BFA">Top Languages — by commits</text>
+<path d="M 110.00 103.00 A 62 62 0 1 1 50.13 181.11 L 71.37 175.40 A 40 40 0 1 0 110.00 125.00 Z" fill="#8B5CF6"/>
+<path d="M 50.13 181.11 A 62 62 0 0 1 50.83 146.48 L 71.83 153.05 A 40 40 0 0 0 71.37 175.40 Z" fill="#EC9665"/>
+<path d="M 50.83 146.48 A 62 62 0 0 1 62.90 124.69 L 79.61 138.99 A 40 40 0 0 0 71.83 153.05 Z" fill="#65ECBA"/>
+<path d="M 62.90 124.69 A 62 62 0 0 1 79.61 110.96 L 90.39 130.14 A 40 40 0 0 0 79.61 138.99 Z" fill="#65B4EC"/>
+<path d="M 79.61 110.96 A 62 62 0 0 1 91.88 105.71 L 98.31 126.75 A 40 40 0 0 0 90.39 130.14 Z" fill="#A4EC65"/>
+<path d="M 91.88 105.71 A 62 62 0 0 1 100.01 103.81 L 103.56 125.52 A 40 40 0 0 0 98.31 126.75 Z" fill="#EC65BA"/>
+<path d="M 100.01 103.81 A 62 62 0 0 1 110.00 103.00 L 110.00 125.00 A 40 40 0 0 0 103.56 125.52 Z" fill="#A6A1AF"/>
+<rect x="225" y="69" width="11" height="11" rx="2" fill="#8B5CF6"/>
+<text x="244" y="78" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#888888">Python</text>
+<text x="460" y="78" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#A78BFA" text-anchor="end">70.8%</text>
+<rect x="225" y="93" width="11" height="11" rx="2" fill="#EC9665"/>
+<text x="244" y="102" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#888888">HTML</text>
+<text x="460" y="102" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#A78BFA" text-anchor="end">9.0%</text>
+<rect x="225" y="117" width="11" height="11" rx="2" fill="#65ECBA"/>
+<text x="244" y="126" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#888888">JavaScript</text>
+<text x="460" y="126" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#A78BFA" text-anchor="end">6.4%</text>
+<rect x="225" y="141" width="11" height="11" rx="2" fill="#65B4EC"/>
+<text x="244" y="150" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#888888">CSS</text>
+<text x="460" y="150" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#A78BFA" text-anchor="end">5.6%</text>
+<rect x="225" y="165" width="11" height="11" rx="2" fill="#A4EC65"/>
+<text x="244" y="174" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#888888">Shell</text>
+<text x="460" y="174" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#A78BFA" text-anchor="end">3.4%</text>
+<rect x="225" y="189" width="11" height="11" rx="2" fill="#EC65BA"/>
+<text x="244" y="198" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#888888">PowerShell</text>
+<text x="460" y="198" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#A78BFA" text-anchor="end">2.1%</text>
+<rect x="225" y="213" width="11" height="11" rx="2" fill="#A6A1AF"/>
+<text x="244" y="222" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#888888">Other</text>
+<text x="460" y="222" font-family='"Fira Code", "JetBrains Mono", "SF Mono", Consolas, monospace' font-size="11" fill="#A78BFA" text-anchor="end">2.6%</text>
+</svg>
