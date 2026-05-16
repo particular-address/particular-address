@@ -64,12 +64,10 @@
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=particular-address&theme=transparent" alt="Stats"></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=particular-address&theme=transparent" alt="Top Languages by Commit"></td>
-  </tr>
-  <tr>
+    <br>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=particular-address&theme=transparent" alt="Top Languages by Repo"></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=particular-address&theme=transparent" alt="Commits (productive time)"></td>
-  </tr>
-  <tr>
+    <br>
     <td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=particular-address&theme=transparent" alt="Profile details"></td>
   </tr>
 </table>
@@ -78,7 +76,7 @@
 
 <!-- ==== Self-hosted widgets — heatmap + donut in one shared cell (SVGs committed in assets/) ==== -->
 
-<!-- Both SVGs in a single cell: one row means no alternating-row shading; heatmap on top carries the date that heads the pair -->
+<!-- Both SVGs in a single cell to avoide zebra-striping -->
 <table align="center">
   <tr>
     <td align="center">
