@@ -59,16 +59,17 @@
 
 <!-- ==== Summary cards (github-profile-summary-cards.vercel.app) ==== -->
 
-<!-- Summary cards: 2x2 grid with profile-details as a wide third row (stats, top-langs-by-commit, top-langs-by-repo, commits, profile-details) -->
 <table align="center">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=particular-address&theme=transparent" alt="Stats"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=particular-address&theme=transparent" alt="Top Languages by Commit"></td>
-    <br>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=particular-address&theme=transparent" alt="Top Languages by Repo"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=particular-address&theme=transparent" alt="Commits (productive time)"></td>
-    <br>
-    <td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=particular-address&theme=transparent" alt="Profile details"></td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=particular-address&theme=transparent" alt="Stats">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=particular-address&theme=transparent" alt="Top Languages by Commit">
+      <br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=particular-address&theme=transparent" alt="Top Languages by Repo">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=particular-address&theme=transparent" alt="Commits (productive time)">
+      <br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=particular-address&theme=transparent" alt="Profile details">
+    </td>
   </tr>
 </table>
 
