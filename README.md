@@ -7,7 +7,7 @@
 <p align="center">
   Developer of mostly-functional things and occasionally-shipped projects.
   <br>
-  Currently in the part of the project where things compile.
+  Working on the "occasionally" part. 
 </p>
 
 <!-- Animated typing intro via readme-typing-svg -->
