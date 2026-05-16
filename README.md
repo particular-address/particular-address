@@ -82,8 +82,6 @@
 <table align="center">
   <tr>
     <td align="center"><img src="./assets/20260516-1028-utc-widget-contribution-heatmap-C.svg" alt="Contribution heatmap"></td>
-  </tr>
-  <tr>
     <td align="center"><img src="./assets/20260516-1119-utc-widget-language-donut-A.svg" alt="Top Languages by Commit"></td>
   </tr>
 </table>
