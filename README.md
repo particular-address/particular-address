@@ -76,19 +76,17 @@
 
 <br>
 
-<!-- ==== Self-hosted widgets (self-rendered SVGs committed in assets/) ==== -->
+<!-- ==== Self-hosted widgets — heatmap + donut grouped in one table (SVGs committed in assets/) ==== -->
 
-<!-- Contribution heatmap — self-rendered SVG -->
-<p align="center">
-  <img src="./assets/20260516-1028-utc-widget-contribution-heatmap-C.svg" alt="Contribution heatmap">
-</p>
-
-<br>
-
-<!-- Top languages donut — self-rendered SVG -->
-<p align="center">
-  <img src="./assets/20260516-1119-utc-widget-language-donut-A.svg" alt="Top Languages by Commit">
-</p>
+<!-- Grouped: heatmap (row 1) carries the date that heads the pair; donut (row 2) needs no separate date -->
+<table align="center">
+  <tr>
+    <td align="center"><img src="./assets/20260516-1028-utc-widget-contribution-heatmap-C.svg" alt="Contribution heatmap"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/20260516-1119-utc-widget-language-donut-A.svg" alt="Top Languages by Commit"></td>
+  </tr>
+</table>
 <!--
 **particular-address/particular-address** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
